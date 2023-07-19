@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋🏻, Eu sou a Adyna Lima</h1>
+<h1 align="left">Olá 👋🏻, Eu sou a Adyna Vidal</h1>
 
 
 - 👩‍💻 Desenvolvedora Front-End.
@@ -31,10 +31,10 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/adynalima/" target="_blank">
+<a href="https://www.linkedin.com/in/adynavidal/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-adynalima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/adynaslima/" target="_blank">
+<a href="https://www.instagram.com/adynavidal/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-adynaslima-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
