@@ -35,7 +35,7 @@
   <img align="center" src="https://img.shields.io/badge/-adynavidal-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/adynavidal/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-adynasvidal-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-adynavidal-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
